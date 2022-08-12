@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "Gremlins",
+    "descripcion": "un joven inadvertidamente rompe 3 importantes reglas acerca de su mascota",
+    "videoUrl": "https://cdnmlst.nyc3.digitaloceanspaces.com/classics/FLV/gremlins.mp4",
+    "categoria": "Comedia",
+    "poster": "https://www.movie-list.com/img/posters/caps/gremlins.jpg"
+  },{
+  "titulo" : "Carrie ",
+  "descripcion": "una joven que nO hace amigS facilmente, tiene una serie de situaciones complicadas",
+  "videoUrl": "https://cdn-mlst.nyc3.digitaloceanspaces.com/classics/HD/carrie720.mp4",
+  "categoria": "Terror" ,
+  "poster": "https://www.movie-list.com/img/posters/big/carrie.jpg"
+}]
